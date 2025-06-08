@@ -86,4 +86,5 @@ Este é o passo mais importante! Para o programa funcionar corretamente, sua pla
 
 > **AVISO LEGAL:** O uso de ferramentas de automação para envio em massa pode violar os Termos de Serviço do WhatsApp e resultar no bloqueio da sua conta. Use esta ferramenta com responsabilidade e apenas para se comunicar com contatos que consentiram em receber suas mensagens. Eu não me responsabilizo por qualquer uso indevido ou consequências.
 
-![image](https://github.com/user-attachments/assets/8e088488-78b3-4011-988b-eb69c8e2e4de)
+![image](https://github.com/user-attachments/assets/b549d58a-5f65-40ce-85fa-bac9ab4cc506)
+
