@@ -10,7 +10,7 @@ Antes de começar, você precisa ter:
 *   O programa `WHATSManager.exe`.
 *   **WhatsApp Desktop instalado** no seu computador e com o login já efetuado na sua conta.
 *   Uma planilha de contatos no formato `.csv`.
-
+ 
 ---
 
 ## 1. Preparando sua Planilha de Contatos (`.csv`)
